@@ -58,7 +58,7 @@
   .underg-museum {
     position: relative;
     left: 930px;
-    top: -250px;
+    top: -220px;
     width: 16px;
     height: 16px;
     border-radius: 50%;
@@ -75,7 +75,7 @@
     /* background-image: url("assets/trekking-spain.png"); */
     display: none;
     bottom: 100px;
-    width: 200px;
+    width: 180px;
     padding: 10px;
     background-color:rgb(189, 240, 223);
     border: 1px solid #ddd;
@@ -100,7 +100,7 @@
   .hotel1 {
     position: relative;
     left: 750px;
-    top: -220px;
+    top: -200px;
     width: 16px;
     height: 16px;
     border-radius: 50%;
@@ -156,8 +156,8 @@
   
   .hotel2-ven {
     position: relative;
-    left: 1120px;
-    top: -4px;
+    left: 590px;
+    top: -260px;
     width: 16px;
     height: 16px;
     border-radius: 50%;
