@@ -1,7 +1,7 @@
 .football-portugal  {
     position: relative;
-    left: 525px;
-    top: -340px;
+    left: 600px;
+    top: -300px;
     width: 16px;
     height: 16px;
     border-radius: 50%;
@@ -18,7 +18,7 @@
     top: 20px;
     left: 20px;
     font-size: 30px;
-    color: #000;
+    color: bisque;
     cursor: pointer;
   }
   
@@ -58,8 +58,8 @@
 
   .mountain {
     position: relative;
-    left: 775px;
-    top: -600px;
+    left: 655px;
+    top: -400px;
     width: 16px;
     height: 16px;
     border-radius: 50%;
@@ -100,8 +100,8 @@
 
   .hotel1 {
     position: relative;
-    left: 900px;
-    top: -440px;
+    left: 635px;
+    top: -130px;
     width: 16px;
     height: 16px;
     border-radius: 50%;
@@ -157,8 +157,8 @@
   
   .island-survive {
     position: relative;
-    left: 1100px;
-    top: -420px;
+    left: 530px;
+    top: -230px;
     width: 16px;
     height: 16px;
     border-radius: 50%;
