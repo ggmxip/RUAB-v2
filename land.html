@@ -150,10 +150,21 @@
 <div>
   
   
-<video class="video-bg" autoplay muted loop plays-inline>
+<!-- <video class="video-bg" autoplay loop plays-inline >
+  <source src="assets/realvid.mp4" type="video/mp4">
+</video> -->
+
+<video class="video-bg" autoplay loop playsinline id="bg-video">
   <source src="assets/realvid.mp4" type="video/mp4">
 </video>
 
+<script>
+  // Get the video element
+  var video = document.getElementById("bg-video");
+
+  // Set the volume (0.5 represents 50% volume)
+  video.volume = .45;
+</script>
 
   <nav>
     
